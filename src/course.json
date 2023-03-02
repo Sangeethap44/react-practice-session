@@ -1,0 +1,31 @@
+[
+    {
+        "std_name":"sahana",
+        "std_class":"3rd std",
+        "std_photo":"https://st2.depositphotos.com/4431055/11856/i/450/depositphotos_118562150-stock-photo-young-student-girl.jpg",
+        "std_id":"103",
+        "std_sub":[
+            "kannada",
+            "English",
+            "Hindi",
+            "maths",
+            "Science",
+            "Social"
+            ]
+    },
+
+    {
+        "std_name":"sagarika",
+        "std_class":"3rd std",
+        "std_photo":"https://st2.depositphotos.com/3889193/6554/i/450/depositphotos_65548041-stock-photo-cute-student-girl-taking-notes.jpg",
+        "std_id":"106",
+        "std_sub":[
+            "kannada",
+            "English",
+            "Hindi",
+            "maths",
+            "Science",
+            "Social"
+            ]
+    }
+]
