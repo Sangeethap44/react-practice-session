@@ -1,0 +1,33 @@
+
+/* .mainBlock
+{ 
+    height:100%;
+    width: 600px;
+    display: flex;
+    justify-content:space-between;
+    gap:2px
+}
+
+.mainBlock >div{
+    width:250px
+}
+
+.mainBlock > center > div >img{
+    height:200px;
+    width:300px;
+    object-fit:cover;
+} */
+
+
+
+
+.MainDiv > h1{
+   
+    align-items:center ;
+}
+
+.BtnDiv > button{
+    background-color: blanchedalmond;
+    color: brown;
+   
+}
